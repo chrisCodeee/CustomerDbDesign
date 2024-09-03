@@ -1,4 +1,4 @@
-# Customer Databsse Management System Design 
+# Customer Database Management System Design 
 This project involves the creation and management of a database system designed to handle customer and loan information for a financial institution. The primary goal is to efficiently organize, store, and query data related to customers, loans, states, and branches, enabling the institution to generate valuable insights and perform critical business operations.
 
 
